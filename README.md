@@ -72,7 +72,7 @@ export default {
 					editable: false
 				},
 				html: {
-					value: '<a href="https://www.github.com">'GitHub</a>
+					value: '<a href="https://www.github.com">GitHub</a>'
 				},
 				button: {
 					value: [
